@@ -2,9 +2,10 @@
 This is an app designed to help the people find and create events. 
 
 Requierments:
-	  * Must use ReactJS or Angular in some way (even if minimal)
 
   	* Must use a Node and Express Web Server
+	
+	* Must use ReactJS or Angular in some way (even if minimal)
 
   	* Must be backed by a MySQL or MongoDB Database with a Sequelize or Mongoose ORM  
 
